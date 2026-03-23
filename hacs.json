@@ -1,1 +1,5 @@
-{  "name": "Piotras Climate Info",  "render_readme": true,  "filename": "piotras-climate-info-loader.js"}
+{
+  "name": "Piotras Climate Info",
+  "render_readme": true,
+  "filename": "piotras-climate-info-loader.js"
+}
