@@ -169,6 +169,35 @@ devices:
 
 ---
 
+## ⚙️ Installation
+
+### Method 1: Via HACS (Recommended)
+
+1. Click the button below to automatically add the repository to your HACS:
+
+<a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=Piotras1&repository=piotras-climate-info&category=plugin">
+    <img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Open your Home Assistant instance">
+</a>
+
+2. Click **Add** in the pop-up window.
+3. Once the repository page opens, click **Download**.
+4. After downloading, do a **Hard reload** of your browser.
+
+### Method 2: Manual Installation
+
+1. Download this repository as a ZIP file and extract it.
+2. Inside your Home Assistant `config/www/` directory, create a new folder named `piotras-climate-info`.
+3. Copy the compiled files (from `dist/` folder) into `config/www/piotras-climate-info/`.
+4. Go to **Settings → Dashboards → Resources**.
+5. Click **Add Resource** and enter:
+```
+/local/piotras-climate-info/piotras-climate-info-loader.js?v=1.1.0
+```
+- Resource type: **JavaScript Module**
+6. Hard reload your browser (`Ctrl+Shift+R`).
+
+---
+
 ## ⚙️ Configuration Reference
 
 ### Card-level options
