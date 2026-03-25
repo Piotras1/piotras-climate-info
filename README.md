@@ -269,3 +269,6 @@ devices:
 | `temp_cold_color` | string | `#3498db` | Color for cold range |
 | `temp_comfort_color` | string | `#27ae60` | Color for comfort range |
 | `temp_hot_color` | string | `#e74c3c` | Color for hot range |
+
+---
+*Created by Piotras. Strictly engineered for reliability.*
