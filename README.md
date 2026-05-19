@@ -1,4 +1,4 @@
-![GitHub Downloads](https://img.shields.io/github/downloads/Piotras1/piotras-climate-info/total?style=flat-square&logo=github)
+![GitHub Downloads](https://img.shields.io/github/downloads/Piotras1/piotras-climate-info/total?path=piotras-climate-info-loader.js&style=flat-square&logo=github&label=downloads)
 ![GitHub Release](https://img.shields.io/github/v/release/Piotras1/piotras-climate-info?style=flat-square)
 ![HACS](https://img.shields.io/badge/HACS-Default-orange?style=flat-square)
 ##  Piotras Climate Info
