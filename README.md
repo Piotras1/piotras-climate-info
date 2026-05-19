@@ -7,8 +7,6 @@
 
 [![GitHub Discussions](https://img.shields.io/badge/Discussions-Join%20the%20community-blueviolet?style=flat-square&logo=github)](https://github.com/Piotras1/piotras-climate-info/discussions)
 ![GitHub Discussions](https://img.shields.io/github/discussions/Piotras1/piotras-climate-info?style=flat-square&logo=github&label=discussions&color=blueviolet)
-
-
 ##  Piotras Climate Info
 ### Release v1.2.0
 A highly customizable Home Assistant card for monitoring climate conditions and energy usage.  
