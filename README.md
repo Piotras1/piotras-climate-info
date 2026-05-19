@@ -1,14 +1,13 @@
-![GitHub Downloads](https://img.shields.io/github/downloads/Piotras1/piotras-climate-info/total?path=piotras-climate-info-loader.js&style=flat-square&logo=github&label=downloads)
-![GitHub Release](https://img.shields.io/github/v/release/Piotras1/piotras-climate-info?style=flat-square)
 ![HACS](https://img.shields.io/badge/HACS-Default-orange?style=flat-square)
+![GitHub Downloads](https://img.shields.io/github/downloads/Piotras1/piotras-climate-info/total?style=flat-square&logo=github)
 ![GitHub Stars](https://img.shields.io/github/stars/Piotras1/piotras-climate-info?style=flat-square&logo=github&label=stars&color=brightgreen)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Piotras1/piotras-climate-info/validate.yaml?style=flat-square&logo=github-actions&label=hacs%20validation)
-![GitHub Release Date](https://img.shields.io/github/release-date/Piotras1/piotras-climate-info?style=flat-square&logo=github&label=released)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/Piotras1/piotras-climate-info?style=flat-square&logo=github&label=last%20update)
-![GitHub Code Size](https://img.shields.io/github/languages/code-size/Piotras1/piotras-climate-info?style=flat-square&logo=javascript&label=code%20size&color=blue)
 ![GitHub Issues](https://img.shields.io/github/issues/Piotras1/piotras-climate-info?style=flat-square&logo=github&label=issues)
-![GitHub Discussions](https://img.shields.io/github/discussions/Piotras1/piotras-climate-info?style=flat-square&logo=github&label=discussions&color=blueviolet)
+![GitHub Release](https://img.shields.io/github/v/release/Piotras1/piotras-climate-info?style=flat-square)
+![GitHub Release Date](https://img.shields.io/github/release-date/Piotras1/piotras-climate-info?style=flat-square&logo=github&label=released)
+
 [![GitHub Discussions](https://img.shields.io/badge/Discussions-Join%20the%20community-blueviolet?style=flat-square&logo=github)](https://github.com/Piotras1/piotras-climate-info/discussions)
+![GitHub Discussions](https://img.shields.io/github/discussions/Piotras1/piotras-climate-info?style=flat-square&logo=github&label=discussions&color=blueviolet)
+
 
 ##  Piotras Climate Info
 ### Release v1.2.0
