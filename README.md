@@ -7,6 +7,8 @@
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/Piotras1/piotras-climate-info?style=flat-square&logo=github&label=last%20update)
 ![GitHub Code Size](https://img.shields.io/github/languages/code-size/Piotras1/piotras-climate-info?style=flat-square&logo=javascript&label=code%20size&color=blue)
 ![GitHub Issues](https://img.shields.io/github/issues/Piotras1/piotras-climate-info?style=flat-square&logo=github&label=issues)
+![GitHub Discussions](https://img.shields.io/github/discussions/Piotras1/piotras-climate-info?style=flat-square&logo=github&label=discussions&color=blueviolet)
+[![GitHub Discussions](https://img.shields.io/badge/Discussions-Join%20the%20community-blueviolet?style=flat-square&logo=github)](https://github.com/Piotras1/piotras-climate-info/discussions)
 
 ##  Piotras Climate Info
 ### Release v1.2.0
